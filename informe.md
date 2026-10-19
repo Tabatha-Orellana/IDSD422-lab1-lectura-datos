@@ -3,9 +3,8 @@
 **Para:** Gerencia de RetailAndina S.A.  
 **De:** Equipo de Business Intelligence  
 **Asignatura:** IDSD422 — Estadística y Programación para Ciencia de Datos I  
-**Estudiante:** [Completar nombres y apellidos]  
-**Docente:** [Completar]  
-**Fecha:** [Completar fecha]  
+**Estudiante:** Tabatha Peñaloza  
+**Docente:** Christian Suarez  
 **Asunto:** Análisis inicial de ventas de la semana 39  
 **Repositorio (fork):** https://github.com/Tabatha-Orellana/IDSD422-lab1-lectura-datos
 
